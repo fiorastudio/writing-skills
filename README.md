@@ -1,3 +1,15 @@
 # WritingSkills
 
+[learnaifluency.com](https://learnaifluency.com) | [stevenjieliwu.com](https://stevenjieliwu.com)
+
+My mission is to help everyone level up on AI fluency and get the most out of this new breed of tooling.
+
+## Vetted Tools
+
+| Tool/Repository | Vetted |
+| :--- | :--- |
+| https://github.com/blader/humanizer | - |
+
+---
+
 A curated collection of interesting repository hyperlinks related to writing.
