@@ -6,9 +6,9 @@ My mission is to help everyone level up on AI fluency and get the most out of th
 
 ## Vetted Tools
 
-| Tool/Repository | Vetted |
-| :--- | :--- |
-| https://github.com/blader/humanizer | - |
+| Tool/Repository | Vetted | Description |
+| :--- | :--- | :--- |
+| https://github.com/blader/humanizer | - | |
 
 ---
 
