@@ -8,8 +8,8 @@ My mission is to help everyone level up on AI fluency and get the most out of th
 
 | No. | Tool/Repository | Description | Vetted |
 | :--- | :--- | :--- | :--- |
-| 1 | https://github.com/blader/humanizer |  | - |
-| 2 | https://github.com/hardikpandya/stop-slop |  | - |
+| 1 | https://github.com/blader/humanizer | Agent skill that removes signs of AI-generated writing from text | - |
+| 2 | https://github.com/hardikpandya/stop-slop | A skill file for removing AI tells from prose | - |
 
 ---
 
