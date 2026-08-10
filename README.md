@@ -1,8 +1,6 @@
 # WritingSkills
 
-[learnaifluency.com](https://learnaifluency.com) | [stevenjieliwu.com](https://stevenjieliwu.com)
-
-My mission is to help everyone level up on AI fluency and get the most out of this new breed of tooling.
+My mission is to help everyone level up on AI fluency and get the most out of this new breed of tooling. Here is Steven Jieli Wu’s curated list of skills and resources.
 
 ## Vetted Tools
 
@@ -14,3 +12,8 @@ My mission is to help everyone level up on AI fluency and get the most out of th
 ---
 
 A curated collection of interesting repository hyperlinks related to writing.
+
+## Resources
+
+- [learnaifluency.com](https://learnaifluency.com)
+- [stevenjieliwu.com](https://stevenjieliwu.com)
