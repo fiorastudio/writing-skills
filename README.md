@@ -6,10 +6,10 @@ My mission is to help everyone level up on AI fluency and get the most out of th
 
 ## Vetted Tools
 
-| Tool/Repository | Vetted | Description |
-| :--- | :--- | :--- |
-| https://github.com/blader/humanizer | - | |
-| https://github.com/hardikpandya/stop-slop | - | |
+| No. | Tool/Repository | Description | Vetted |
+| :--- | :--- | :--- | :--- |
+| 1 | https://github.com/blader/humanizer |  | - |
+| 2 | https://github.com/hardikpandya/stop-slop |  | - |
 
 ---
 
